@@ -3,18 +3,117 @@ Dataset 100k/Dot-product/Epoch2: https://www.kaggle.com/code/hungnguyencdr/evalu
 Dataset 100k/Dot-product/Epoch3: https://www.kaggle.com/code/hungnguyencdr/evaluate-dot-product-3epoch-phomt-100k
 Dataset 100k/Dot-product/Epoch4: https://www.kaggle.com/code/hungnguyencdr/evaluate-dot-product-4epoch-phomt-100k
 Dataset 100k/Dot-product/Epoch5: https://www.kaggle.com/code/hungnguyencdr/evaluate-dot-product-5epoch-phomt-100k
+
 Dataset 100k/Luong/Epoch1: https://www.kaggle.com/code/hungnguyencdr/evaluate-luong-1epoch-phomt-100k
 Dataset 100k/Luong/Epoch2: https://www.kaggle.com/code/hungnguyencdr/evaluate-luong-2epoch-phomt-100k
 Dataset 100k/Luong/Epoch3: https://www.kaggle.com/code/hungnguyencdr/evaluate-luong-3epoch-phomt-100k
 Dataset 100k/Luong/Epoch4: https://www.kaggle.com/code/hungnguyencdr/evaluate-luong-4epoch-phomt-100k
 Dataset 100k/Luong/Epoch5: https://www.kaggle.com/code/hungnguyencdr/evaluate-luong-5epoch-phomt-100k
+
 Dataset 200k/Dot-product/Epoch1: https://www.kaggle.com/code/hungnguyencdr/evaluate-dot-product-1epoch-phomt-200k
 Dataset 200k/Dot-product/Epoch2: https://www.kaggle.com/code/hungnguyencdr/evaluate-dot-product-2epoch-phomt-200k
 Dataset 200k/Dot-product/Epoch3: https://www.kaggle.com/code/hungnguyencdr/evaluate-dot-product-3epoch-phomt-200k
 Dataset 200k/Dot-product/Epoch4: https://www.kaggle.com/code/hungnguyencdr/evaluate-dot-product-4epoch-phomt-200k
 Dataset 200k/Dot-product/Epoch5: https://www.kaggle.com/code/hungnguyencdr/evaluate-dot-product-5epoch-phomt-200k
+
 Dataset 200k/Luong/Epoch1: https://www.kaggle.com/code/hungnguyencdr/evaluate-luong-1epoch-phomt-200k
 Dataset 200k/Luong/Epoch2: https://www.kaggle.com/code/hungnguyencdr/evaluate-luong-1epoch-phomt-200k
 Dataset 200k/Luong/Epoch3: https://www.kaggle.com/code/hungnguyencdr/evaluate-luong-3epoch-phomt-200k
 Dataset 200k/Luong/Epoch4: https://www.kaggle.com/code/hungnguyencdr/evaluate-luong-4epoch-phomt-200k
 Dataset 200k/Luong/Epoch5: https://www.kaggle.com/code/hungnguyencdr/evaluate-luong-5epoch-phomt-200k
+
+Dataset 300k/Dot-product/Epoch1: https://www.kaggle.com/code/zukanopro/evaluate-dot-product-1epoch-phomt-300k
+Dataset 300k/Dot-product/Epoch2: https://www.kaggle.com/code/zukanopro/evaluate-dot-product-2epoch-phomt-300k?scriptVersionId=284978649
+Dataset 300k/Dot-product/Epoch3: https://www.kaggle.com/code/zukanopro/evaluate-dot-product-3epoch-phomt-300k?scriptVersionId=284982920
+Dataset 300k/Dot-product/Epoch4: https://www.kaggle.com/code/zukanopro/evaluate-dot-product-4epoch-phomt-300k-ipynb?scriptVersionId=284989060
+Dataset 300k/Dot-product/Epoch5: https://www.kaggle.com/code/zukanopro/evaluate-dot-product-5epoch-phomt-300k
+
+Dataset 300k/Luong/Epoch1: https://www.kaggle.com/code/zukanopro/evaluate-luong-1epoch-phomt-300k?scriptVersionId=285837553
+Dataset 300k/Luong/Epoch2: https://www.kaggle.com/code/zukanopro/evaluate-luong-2epoch-phomt-300k
+Dataset 300k/Luong/Epoch3:
+Dataset 300k/Luong/Epoch4: https://www.kaggle.com/code/zukanopro/evaluate-luong-4epoch-phomt-300k?scriptVersionId=286043408
+Dataset 300k/Luong/Epoch5: https://www.kaggle.com/code/zukanopro/evaluate-luong-5epoch-phomt-300k?scriptVersionId=286045019
+
+Dataset 400k/Dot-product/Epoch1: https://www.kaggle.com/code/hunanh/evaluate-dot-product-1epoch-phomt-400k/notebook?scriptVersionId=286089949
+Dataset 400k/Dot-product/Epoch2: https://www.kaggle.com/code/hunanh/evaluate-dot-product-2epoch-phomt-400k?scriptVersionId=286095425
+Dataset 400k/Dot-product/Epoch3: https://www.kaggle.com/code/hunanh/evaluate-dot-product-3epoch-phomt-400k
+Dataset 400k/Dot-product/Epoch4: https://www.kaggle.com/code/hunanh/evaluate-dot-product-4epoch-phomt-400k?scriptVersionId=286260217
+Dataset 400k/Dot-product/Epoch5: https://www.kaggle.com/code/hunanh/evaluate-dot-product-5epoch-phomt-400k
+
+Dataset 400k/Luong/Epoch1: https://www.kaggle.com/code/zukanopro/evaluate-luong-1epoch-phomt-400k
+Dataset 400k/Luong/Epoch2: https://www.kaggle.com/code/zukanopro/evaluate-luong-2epoch-phomt-400k
+Dataset 400k/Luong/Epoch3: https://www.kaggle.com/code/zukanopro/evaluate-luong-3epoch-phomt-400k
+Dataset 400k/Luong/Epoch4: https://www.kaggle.com/code/zukanopro/evaluate-luong-4epoch-phomt-400k
+Dataset 400k/Luong/Epoch5: https://www.kaggle.com/code/zukanopro/evaluate-luong-5epoch-phomt-400k
+
+Dataset 500k/Dot-product/Epoch1: https://www.kaggle.com/code/chilanng/evaluate-dot-product-1epoch-phomt-500k
+Dataset 500k/Dot-product/Epoch2: https://www.kaggle.com/code/chilanng/evaluate-dot-product-2epoch-phomt-500k?scriptVersionId=284971005
+Dataset 500k/Dot-product/Epoch3: https://www.kaggle.com/code/chilanng/evaluate-dot-product-3epoch-phomt-500k?scriptVersionId=284976593
+Dataset 500k/Dot-product/Epoch4: https://www.kaggle.com/code/chilanng/evaluate-dot-product-4epoch-phomt-500k?scriptVersionId=284979862
+Dataset 500k/Dot-product/Epoch5: https://www.kaggle.com/code/chilanng/evaluate-dot-product-5epoch-phomt-500k
+
+Dataset 500k/Luong/Epoch1: https://www.kaggle.com/code/bchtnguyn/evaluate-luong-1epoch-phomt-500k
+Dataset 500k/Luong/Epoch2: https://www.kaggle.com/code/bchtnguyn/evaluate-luong-2epoch-phomt-500k
+Dataset 500k/Luong/Epoch3: https://www.kaggle.com/code/bchtnguyn/evaluate-luong-3epoch-phomt-500k
+Dataset 500k/Luong/Epoch4: https://www.kaggle.com/code/bchtnguyn/evaluate-luong-4epoch-phomt-500k
+Dataset 500k/Luong/Epoch5: https://www.kaggle.com/code/bchtnguyn/evaluate-luong-5epoch-phomt-500k?scriptVersionId=284970254
+
+Dataset 600k/Dot-product/Epoch1: https://www.kaggle.com/code/chilanng/evaluate-dot-product-1epoch-phomt-600k?scriptVersionId=284985143
+Dataset 600k/Dot-product/Epoch2: https://www.kaggle.com/code/chilanng/evaluate-dot-product-2epoch-phomt-600k?scriptVersionId=284988030
+Dataset 600k/Dot-product/Epoch3: https://www.kaggle.com/code/chilanng/evaluate-dot-product-3epoch-phomt-600k?scriptVersionId=284990287
+Dataset 600k/Dot-product/Epoch4: https://www.kaggle.com/code/chilanng/evaluate-dot-product-4epoch-phomt-600k?scriptVersionId=284992666
+Dataset 600k/Dot-product/Epoch5: https://www.kaggle.com/code/bchtnguyn/evaluate-dot-product-5epoch-phomt-600k/notebook
+
+Dataset 600k/Luong/Epoch1: https://www.kaggle.com/code/bchtnguyn/evaluate-luong-1epoch-phomt-600k/notebook?scriptVersionId=284974541
+Dataset 600k/Luong/Epoch2: https://www.kaggle.com/code/bchtnguyn/evaluate-luong-2epoch-phomt-600k?scriptVersionId=284977758
+Dataset 600k/Luong/Epoch3: https://www.kaggle.com/code/bchtnguyn/evaluate-luong-3epoch-phomt-600k?scriptVersionId=284980791
+Dataset 600k/Luong/Epoch4: https://www.kaggle.com/code/bchtnguyn/evaluate-luong-4epoch-phomt-600k?scriptVersionId=284983293
+Dataset 600k/Luong/Epoch5: https://www.kaggle.com/code/bchtnguyn/evaluate-luong-5epoch-phomt-600k?scriptVersionId=284986141
+
+Dataset 700k/Dot-product/Epoch1: https://www.kaggle.com/code/nguynvnhanguynvnha/evaluate-dot-product-1epoch-phomt-700k
+Dataset 700k/Dot-product/Epoch2: https://www.kaggle.com/code/nguynvnhanguynvnha/evaluate-dot-product-2epoch-phomt-700k
+Dataset 700k/Dot-product/Epoch3: https://www.kaggle.com/code/nguynvnhanguynvnha/evaluate-dot-product-3epoch-phomt-700k
+Dataset 700k/Dot-product/Epoch4: https://www.kaggle.com/code/nguynvnhanguynvnha/evaluate-dot-product-4epoch-phomt-700k
+Dataset 700k/Dot-product/Epoch5: https://www.kaggle.com/code/nguynvnhanguynvnha/evaluate-dot-product-5epoch-phomt-700k
+
+Dataset 700k/Luong/Epoch1: https://www.kaggle.com/code/nguynvnhanguynvnha/evaluate-luong-1epoch-phomt-700k
+Dataset 700k/Luong/Epoch2: https://www.kaggle.com/code/nguynvnhanguynvnha/evaluate-luong-2epoch-phomt-700k
+Dataset 700k/Luong/Epoch3: https://www.kaggle.com/code/nguynvnhanguynvnha/evaluate-luong-3epoch-phomt-700k
+Dataset 700k/Luong/Epoch4: https://www.kaggle.com/code/nguynvnhanguynvnha/evaluate-luong-4epoch-phomt-700k
+Dataset 700k/Luong/Epoch5: https://www.kaggle.com/code/nguynvnhanguynvnha/evaluate-luong-5epoch-phomt-700k
+
+Dataset 800k/Dot-product/Epoch1: https://www.kaggle.com/code/lminhc2302/evaluate-dot-product-1epoch-phomt-800k
+Dataset 800k/Dot-product/Epoch2: https://www.kaggle.com/code/lminhc2302/evaluate-dot-product-2epoch-phomt-800k
+Dataset 800k/Dot-product/Epoch3: https://www.kaggle.com/code/lminhc2302/evaluate-dot-product-3epoch-phomt-800k
+Dataset 800k/Dot-product/Epoch4: https://www.kaggle.com/code/lminhc2302/evaluate-dot-product-4epoch-phomt-800k
+Dataset 800k/Dot-product/Epoch5: https://www.kaggle.com/code/lminhc2302/evaluate-dot-product-5epoch-phomt-800k
+
+Dataset 800k/Luong/Epoch1: https://www.kaggle.com/code/lminhc2302/evaluate-luong-1epoch-phomt-800k
+Dataset 800k/Luong/Epoch2: https://www.kaggle.com/code/lminhc2302/evaluate-luong-2epoch-phomt-800k
+Dataset 800k/Luong/Epoch3: https://www.kaggle.com/code/lminhc2302/evaluate-luong-3epoch-phomt-800k
+Dataset 800k/Luong/Epoch4: https://www.kaggle.com/code/lminhc2302/evaluate-luong-4epoch-phomt-800k
+Dataset 800k/Luong/Epoch5: https://www.kaggle.com/code/lminhc2302/evaluate-luong-5epoch-phomt-800k
+
+Dataset 900k/Dot-product/Epoch1: https://www.kaggle.com/code/dangdao102/evaluate-dot-product-1epoch-phomt-900k
+Dataset 900k/Dot-product/Epoch2: https://www.kaggle.com/code/dangdao102/evaluate-dot-product-2epoch-phomt-900k
+Dataset 900k/Dot-product/Epoch3: https://www.kaggle.com/code/dangdao102/evaluate-dot-product-3epoch-phomt-900k
+Dataset 900k/Dot-product/Epoch4: https://www.kaggle.com/code/dangdao102/evaluate-dot-product-4epoch-phomt-900k
+Dataset 900k/Dot-product/Epoch5: https://www.kaggle.com/code/dangdao102/evaluate-dot-product-5epoch-phomt-900k
+
+Dataset 900k/Luong/Epoch1: https://www.kaggle.com/code/dangdao102/evaluate-luong-1epoch-phomt-900k
+Dataset 900k/Luong/Epoch2: https://www.kaggle.com/code/dangdao102/evaluate-luong-2epoch-phomt-900k
+Dataset 900k/Luong/Epoch3: https://www.kaggle.com/code/dangdao102/evaluate-luong-3epoch-phomt-900k
+Dataset 900k/Luong/Epoch4: https://www.kaggle.com/code/dangdao102/evaluate-luong-4epoch-phomt-900k
+Dataset 900k/Luong/Epoch5: https://www.kaggle.com/code/dangdao102/evaluate-luong-5epoch-phomt-900k
+
+Dataset 1000k/Dot-product/Epoch1: https://www.kaggle.com/code/dangdao102/test-transformer-phomt-1m-dataset-dot-product
+Dataset 1000k/Dot-product/Epoch2: https://www.kaggle.com/code/dangdao102/evaluate-dot-product-2epoch-phomt-1m
+Dataset 1000k/Dot-product/Epoch3: https://www.kaggle.com/code/dangdao102/evaluate-dot-product-3epoch-phomt-1m
+Dataset 1000k/Dot-product/Epoch4: https://www.kaggle.com/code/dangdao102/evaluate-dot-product-4epoch-phomt-1m
+Dataset 1000k/Dot-product/Epoch5: https://www.kaggle.com/code/dangdao102/evaluate-dot-product-5epoch-phomt-1m
+
+Dataset 1000k/Luong/Epoch1: https://www.kaggle.com/code/dangdao102/test-transformer-phomt-1m-dataset-luong
+Dataset 1000k/Luong/Epoch2: https://www.kaggle.com/code/dangdao102/evaluate-luong-2epoch-phomt-1m
+Dataset 1000k/Luong/Epoch3: https://www.kaggle.com/code/dangdao102/evaluate-luong-3epoch-phomt-1m
+Dataset 1000k/Luong/Epoch4: https://www.kaggle.com/code/dangdao102/evaluate-luong-4epoch-phomt-1m
+Dataset 1000k/Luong/Epoch5: https://www.kaggle.com/code/dangdao102/evaluate-luong-5epoch-phomt-1m
