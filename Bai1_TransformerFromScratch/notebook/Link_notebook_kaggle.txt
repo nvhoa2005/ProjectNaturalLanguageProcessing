@@ -1,3 +1,5 @@
+# Đây là link các notebook đánh giá, notebook train nằm ở phần input của các file đánh giá đấy
+
 Dataset 100k/Dot-product/Epoch1: https://www.kaggle.com/code/hungnguyencdr/evaluate-dot-product-1epoch-phomt-100k
 Dataset 100k/Dot-product/Epoch2: https://www.kaggle.com/code/hungnguyencdr/evaluate-dot-product-2epoch-phomt-100k
 Dataset 100k/Dot-product/Epoch3: https://www.kaggle.com/code/hungnguyencdr/evaluate-dot-product-3epoch-phomt-100k
