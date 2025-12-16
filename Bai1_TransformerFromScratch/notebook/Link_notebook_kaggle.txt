@@ -30,7 +30,7 @@ Dataset 300k/Dot-product/Epoch5: https://www.kaggle.com/code/zukanopro/evaluate-
 
 Dataset 300k/Luong/Epoch1: https://www.kaggle.com/code/zukanopro/evaluate-luong-1epoch-phomt-300k?scriptVersionId=285837553
 Dataset 300k/Luong/Epoch2: https://www.kaggle.com/code/zukanopro/evaluate-luong-2epoch-phomt-300k
-Dataset 300k/Luong/Epoch3:
+Dataset 300k/Luong/Epoch3: https://www.kaggle.com/code/zukanopro/evaluate-luong-3epoch-phomt-300k
 Dataset 300k/Luong/Epoch4: https://www.kaggle.com/code/zukanopro/evaluate-luong-4epoch-phomt-300k?scriptVersionId=286043408
 Dataset 300k/Luong/Epoch5: https://www.kaggle.com/code/zukanopro/evaluate-luong-5epoch-phomt-300k?scriptVersionId=286045019
 
@@ -117,3 +117,4 @@ Dataset 1000k/Luong/Epoch2: https://www.kaggle.com/code/dangdao102/evaluate-luon
 Dataset 1000k/Luong/Epoch3: https://www.kaggle.com/code/dangdao102/evaluate-luong-3epoch-phomt-1m
 Dataset 1000k/Luong/Epoch4: https://www.kaggle.com/code/dangdao102/evaluate-luong-4epoch-phomt-1m
 Dataset 1000k/Luong/Epoch5: https://www.kaggle.com/code/dangdao102/evaluate-luong-5epoch-phomt-1m
+
