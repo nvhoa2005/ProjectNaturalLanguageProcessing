@@ -1,0 +1,13 @@
+## Link notebook tạo pretrain model (với ViPubMed):
+
+ViPubMed_300K: https://www.kaggle.com/code/dangdao102/finetune-tmnam20-vipubmed-300k
+ViPubMed_500K: https://www.kaggle.com/code/dangdao102/finetune-tmnam20-vipubmed-500k
+ViPubMed_700K: https://www.kaggle.com/code/nguynvnhanguynvnha/finetune-tmnam20-vipubmed-700k
+
+
+## Link notebook finetune với VLSP:
+
+Baseline: https://www.kaggle.com/code/dangdao102/vlsp-finetune
+ViPubMed_300K: https://www.kaggle.com/code/dangdao102/finetune-from-checkpoint-tmnam20-vipubmed-300k/notebook
+ViPubMed_500K: https://www.kaggle.com/code/dangdao102/finetune-from-checkpoint-tmnam20-vipubmed-500k
+ViPubMed_700K: https://www.kaggle.com/code/lminhc2302/finetune-from-checkpoint-tmnam20-vipubmed-700k
